@@ -1,0 +1,51 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    border: 0;
+}
+
+section{
+    display: flex;
+}
+
+h1{
+    font-size: 60px;
+}
+
+#margin-p{
+    margin-bottom: 60px;
+    font-size: 23px;
+}
+
+#span{
+    color: orange;
+}
+
+#order-food{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+    padding: 10px 30px;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+#div1-sec1{
+    padding-top: 10%;
+    padding-left: 8%;
+    padding-bottom: 6%;
+}
+
+#div2-sec1{
+    padding-top: 3%;
+    padding-left: 6%;
+    padding-right: 4%;
+    padding-bottom: 6%;
+}
