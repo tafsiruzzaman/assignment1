@@ -3,6 +3,13 @@ body{
     margin: 0;
 }
 
+#extra{
+    margin: 5px;
+}
+
+#extra img{
+    padding-left: 13%;
+}
 .section-flex{
     display: flex;
 }
@@ -48,7 +55,7 @@ h3{
 }
 
 #div1-sec1{
-    padding-top: 11%;
+    padding-top: 10%;
     padding-left: 4%;
     padding-bottom: 2%;
 }
