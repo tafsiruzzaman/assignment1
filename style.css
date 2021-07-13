@@ -3,15 +3,15 @@ body{
     margin: 0;
 }
 
-#extra{
-    margin: 5px;
-}
-
-#extra img{
-    padding-left: 13%;
-}
 .section-flex{
     display: flex;
+}
+
+#extra{
+    height: 284px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
 }
 
 h1{
@@ -56,14 +56,14 @@ h3{
 
 #div1-sec1{
     padding-top: 10%;
-    padding-left: 4%;
+    padding-left: 10%;
     padding-bottom: 2%;
 }
 
 #div2-sec1{
     padding-top: 2%;
-    padding-left: 10%;
-    padding-right: 5%;
+    padding-left: 5%;
+    padding-right: 10%;
 }
 
 #section2{
@@ -86,12 +86,12 @@ h3{
 }
 
 .half-width2 img{
-    width: 74%;
-    padding-left: 29%;
+    width: 75%;
+    padding-left: 30%;
 }
 
 #div2-sec2{
-    padding-left: 9%;
+    padding-right: 10%;
     padding-top: 8%;
 }
 
@@ -109,7 +109,7 @@ h3{
 #section4{
     margin-left: 4%;
     margin-right: 4%;
-    margin-bottom: 120px;
+    margin-bottom: 70px;
 }
 
 .third-width{
@@ -127,6 +127,19 @@ h3{
 
 .p-sec4{
     font-size: 17px;
+}
+
+#main-div-section5{
+    margin: 5%;
+    box-shadow: 2px 2px 5px gray;
+}
+
+#third-width2{
+    text-align: center;
+    width: 33.33%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1.5%;
 }
 
 #section6{
